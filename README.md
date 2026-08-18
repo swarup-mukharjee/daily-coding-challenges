@@ -1,9 +1,10 @@
 # 🚀 Daily Coding Challenges
 
-> My daily journey to improve problem-solving, algorithms, and JavaScript skills.
+> My daily journey to improve problem-solving, algorithms, and JavaScript skills using **freeCodeCamp** challenges.
 
 [![Daily Coding](https://img.shields.io/badge/Daily-Coding%20Challenge-blue)](#)
 [![JavaScript](https://img.shields.io/badge/Primary%20Language-JavaScript-yellow)](#)
+[![Source](https://img.shields.io/badge/Platform-freeCodeCamp-green)](https://www.freecodecamp.org/)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-success)](#)
 
 ---
@@ -12,13 +13,13 @@
 
 | Metric | Progress |
 |---|---:|
-| 🏆 Total Challenges | **3** |
-| 🔥 Current Streak | **1 days** |
-| 🏅 Longest Streak | **1 days** |
-| 📅 This Month | **3** |
+| 🏆 Total Challenges | **0** |
+| 🔥 Current Streak | **0 days** |
+| 🏅 Longest Streak | **0 days** |
+| 📅 This Month | **0** |
 | 💻 Primary Language | **JavaScript** |
 
-> Dashboard statistics will be updated automatically as challenges are added.
+> Dashboard statistics update automatically as daily challenges are pushed.
 
 ---
 
@@ -35,7 +36,7 @@
 | May | 0 |
 | June | 0 |
 | July | 0 |
-| **August** | **3** |
+| August | 0 |
 | September | 0 |
 | October | 0 |
 | November | 0 |
@@ -46,5 +47,6 @@
 ## 🔥 Coding Streak
 
 ```text
-Current Streak : 🔥 1 days
-Longest Streak : 🏆 1 days
+Current Streak : 🔥 0 days
+Longest Streak : 🏆 0 days
+```
