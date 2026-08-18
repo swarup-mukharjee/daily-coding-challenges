@@ -46,5 +46,5 @@
 ## 🔥 Coding Streak
 
 ```text
-Current Streak : 🔥 0 days
-Longest Streak : 🏆 0 days
+Current Streak : 🔥 1 days
+Longest Streak : 🏆 1 days
