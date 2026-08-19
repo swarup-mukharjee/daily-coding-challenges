@@ -13,13 +13,22 @@
 
 | Metric | Progress |
 |---|---:|
-| 🏆 Total Challenges | **0** |
-| 🔥 Current Streak | **0 days** |
-| 🏅 Longest Streak | **0 days** |
-| 📅 This Month | **0** |
+| 🏆 Total Challenges | **2** |
+| 🔥 Current Streak | **1 days** |
+| 🏅 Longest Streak | **1 days** |
+| 📅 This Month | **2** |
 | 💻 Primary Language | **JavaScript** |
 
 > Dashboard statistics update automatically as daily challenges are pushed.
+
+---
+
+## 📌 Latest Solved Challenge
+
+- **Challenge:** [Sum of Squares](https://www.freecodecamp.org/learn/daily-coding-challenge/08-19)
+- **Platform:** [freeCodeCamp](https://www.freecodecamp.org/)
+- **Solution:** [View Code](./2026/aug/19/solution.js)
+- **Date:** 2026-aug-19
 
 ---
 
@@ -36,7 +45,7 @@
 | May | 0 |
 | June | 0 |
 | July | 0 |
-| August | 0 |
+| **August** | **2** |
 | September | 0 |
 | October | 0 |
 | November | 0 |
@@ -47,6 +56,6 @@
 ## 🔥 Coding Streak
 
 ```text
-Current Streak : 🔥 0 days
-Longest Streak : 🏆 0 days
+Current Streak : 🔥 1 days
+Longest Streak : 🏆 1 days
 ```
