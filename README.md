@@ -13,10 +13,10 @@
 
 | Metric | Progress |
 |---|---:|
-| 🏆 Total Challenges | **7** |
-| 🔥 Current Streak | **7 days** |
-| 🏅 Longest Streak | **7 days** |
-| 📅 This Month | **7** |
+| 🏆 Total Challenges | **8** |
+| 🔥 Current Streak | **8 days** |
+| 🏅 Longest Streak | **8 days** |
+| 📅 This Month | **8** |
 | 💻 Primary Language | **JavaScript** |
 
 > Dashboard statistics update automatically as daily challenges are pushed.
@@ -25,10 +25,10 @@
 
 ## 📌 Latest Solved Challenge
 
-- **Challenge:** [Squares with 3 or 3 Strikes](https://www.freecodecamp.org/learn/daily-coding-challenge/08-20)
+- **Challenge:** [Mile Pace](https://www.freecodecamp.org/learn/daily-coding-challenge/08-21)
 - **Platform:** [freeCodeCamp](https://www.freecodecamp.org/)
-- **Solution:** [View Code](./2026/aug/20/solution.js)
-- **Date:** 2026-aug-20
+- **Solution:** [View Code](./2026/aug/21/solution.js)
+- **Date:** 2026-aug-21
 
 ---
 
@@ -45,7 +45,7 @@
 | May | 0 |
 | June | 0 |
 | July | 0 |
-| **August** | **7** |
+| **August** | **8** |
 | September | 0 |
 | October | 0 |
 | November | 0 |
@@ -56,6 +56,6 @@
 ## 🔥 Coding Streak
 
 ```text
-Current Streak : 🔥 7 days
-Longest Streak : 🏆 7 days
+Current Streak : 🔥 8 days
+Longest Streak : 🏆 8 days
 ```
