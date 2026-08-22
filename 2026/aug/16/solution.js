@@ -11,3 +11,6 @@ function areAnagrams(str1, str2) {
 
   return sorted1 === sorted2;
 }
+
+// call or test
+areAnagrams("listen", "silent");

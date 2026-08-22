@@ -14,3 +14,8 @@ function sumOfSquares(n) {
 function sumOfSquaresFormula(n) {
   return (n * (n + 1) * (2 * n + 1)) / 6;
 }
+
+
+// call or test
+console.log(sumOfSquares(5));
+console.log(sumOfSquaresFormula(5));

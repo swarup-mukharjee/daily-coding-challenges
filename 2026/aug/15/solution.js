@@ -19,3 +19,6 @@ function jbelmu(text) {
     })
     .join(" ");
 }
+
+// call or test
+jbelmu("hello world");

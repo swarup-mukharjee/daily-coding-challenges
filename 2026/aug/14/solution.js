@@ -5,3 +5,6 @@ function spaceJam(str) {
     .split("")
     .join("  ");
 }
+
+// call or test
+spaceJam("hello world");

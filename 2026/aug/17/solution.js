@@ -9,3 +9,6 @@ function findTarget(nums, target) {
 
   return "Target not found";
 }
+
+// call or test
+findTarget([2, 7, 11, 15], 9);

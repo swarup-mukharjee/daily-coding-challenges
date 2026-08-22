@@ -7,3 +7,6 @@ function factorial(n) {
 
     return result;
 }
+
+// call or test
+factorial(5);

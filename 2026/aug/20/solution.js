@@ -13,4 +13,6 @@ function squaresWithThree(n) {
   return count;
 }
 
+
+// call or test
 squaresWithThree(100);

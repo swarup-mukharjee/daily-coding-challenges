@@ -13,4 +13,7 @@ function milePace(miles, duration) {
   ).padStart(2, "0")}`;
 }
 
-// milePace(3, "24:00")
+
+// call or test
+
+milePace(3, "24:00")
