@@ -7,4 +7,4 @@ function spaceJam(str) {
 }
 
 // call or test
-spaceJam("hello world");
+console.log(cspaceJam("hello world"));

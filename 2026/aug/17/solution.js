@@ -11,4 +11,4 @@ function findTarget(nums, target) {
 }
 
 // call or test
-findTarget([2, 7, 11, 15], 9);
+console.log(findTarget([2, 7, 11, 15], 9));

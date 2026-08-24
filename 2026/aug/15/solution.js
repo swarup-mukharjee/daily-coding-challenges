@@ -21,4 +21,4 @@ function jbelmu(text) {
 }
 
 // call or test
-jbelmu("hello world");
+console.log(jbelmu("hello world"));

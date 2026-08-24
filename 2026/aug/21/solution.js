@@ -16,4 +16,4 @@ function milePace(miles, duration) {
 
 // call or test
 
-milePace(3, "24:00")
+console.log(milePace(3, "24:00"));

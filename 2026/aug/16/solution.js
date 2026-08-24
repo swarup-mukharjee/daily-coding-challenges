@@ -13,4 +13,4 @@ function areAnagrams(str1, str2) {
 }
 
 // call or test
-areAnagrams("listen", "silent");
+console.log(areAnagrams("listen", "silent"));

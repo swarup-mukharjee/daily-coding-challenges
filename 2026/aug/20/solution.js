@@ -15,4 +15,4 @@ function squaresWithThree(n) {
 
 
 // call or test
-squaresWithThree(100);
+console.log(squaresWithThree(100));

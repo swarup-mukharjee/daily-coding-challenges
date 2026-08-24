@@ -9,4 +9,4 @@ function factorial(n) {
 }
 
 // call or test
-factorial(5);
+console.log(factorial(5));
