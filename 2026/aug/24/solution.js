@@ -1,4 +1,4 @@
-function characterBattle(army, opponent) {
+function battle(army, opponent) {
     if (army.length > opponent.length) {
         return "Opponent retreated";
     }
@@ -49,4 +49,4 @@ function characterBattle(army, opponent) {
 }
 
 //call or test
-console.log(characterBattle("won", "cD2"));
+console.log(battle("won", "cD2"));
