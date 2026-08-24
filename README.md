@@ -13,10 +13,10 @@
 
 | Metric | Progress |
 |---|---:|
-| 🏆 Total Challenges | **11** |
-| 🔥 Current Streak | **11 days** |
-| 🏅 Longest Streak | **11 days** |
-| 📅 This Month | **11** |
+| 🏆 Total Challenges | **12** |
+| 🔥 Current Streak | **12 days** |
+| 🏅 Longest Streak | **12 days** |
+| 📅 This Month | **12** |
 | 💻 Primary Language | **JavaScript** |
 
 > Dashboard statistics update automatically as daily challenges are pushed.
@@ -25,10 +25,10 @@
 
 ## 📌 Latest Solved Challenge
 
-- **Challenge:** [Message Decoder](https://www.freecodecamp.org/learn/daily-coding-challenge/08-22)
+- **Challenge:** [Unnatural Prime](https://www.freecodecamp.org/learn/daily-coding-challenge/08-23)
 - **Platform:** [freeCodeCamp](https://www.freecodecamp.org/)
-- **Solution:** [View Code](./2026/aug/22/solution.js)
-- **Date:** 2026-aug-22
+- **Solution:** [View Code](./2026/aug/23/solution.js)
+- **Date:** 2026-aug-23
 
 ---
 
@@ -45,7 +45,7 @@
 | May | 0 |
 | June | 0 |
 | July | 0 |
-| **August** | **11** |
+| **August** | **12** |
 | September | 0 |
 | October | 0 |
 | November | 0 |
@@ -56,6 +56,6 @@
 ## 🔥 Coding Streak
 
 ```text
-Current Streak : 🔥 11 days
-Longest Streak : 🏆 11 days
+Current Streak : 🔥 12 days
+Longest Streak : 🏆 12 days
 ```
