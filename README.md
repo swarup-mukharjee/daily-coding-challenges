@@ -13,10 +13,10 @@
 
 | Metric | Progress |
 |---|---:|
-| 🏆 Total Challenges | **14** |
-| 🔥 Current Streak | **1 days** |
-| 🏅 Longest Streak | **13 days** |
-| 📅 This Month | **14** |
+| 🏆 Total Challenges | **16** |
+| 🔥 Current Streak | **16 days** |
+| 🏅 Longest Streak | **16 days** |
+| 📅 This Month | **16** |
 | 💻 Primary Language | **JavaScript** |
 
 > Dashboard statistics update automatically as daily challenges are pushed.
@@ -45,7 +45,7 @@
 | May | 0 |
 | June | 0 |
 | July | 0 |
-| **August** | **14** |
+| **August** | **16** |
 | September | 0 |
 | October | 0 |
 | November | 0 |
@@ -56,6 +56,6 @@
 ## 🔥 Coding Streak
 
 ```text
-Current Streak : 🔥 1 days
-Longest Streak : 🏆 13 days
+Current Streak : 🔥 16 days
+Longest Streak : 🏆 16 days
 ```
