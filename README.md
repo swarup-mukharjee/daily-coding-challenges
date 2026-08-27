@@ -13,10 +13,10 @@
 
 | Metric | Progress |
 |---|---:|
-| 🏆 Total Challenges | **13** |
-| 🔥 Current Streak | **13 days** |
+| 🏆 Total Challenges | **14** |
+| 🔥 Current Streak | **1 days** |
 | 🏅 Longest Streak | **13 days** |
-| 📅 This Month | **13** |
+| 📅 This Month | **14** |
 | 💻 Primary Language | **JavaScript** |
 
 > Dashboard statistics update automatically as daily challenges are pushed.
@@ -25,10 +25,10 @@
 
 ## 📌 Latest Solved Challenge
 
-- **Challenge:** [Character Battle](https://www.freecodecamp.org/learn/daily-coding-challenge/08-24)
+- **Challenge:** [Unorder of Operations](https://www.freecodecamp.org/learn/daily-coding-challenge/08-27)
 - **Platform:** [freeCodeCamp](https://www.freecodecamp.org/)
-- **Solution:** [View Code](./2026/aug/24/solution.js)
-- **Date:** 2026-aug-24
+- **Solution:** [View Code](./2026/aug/27/solution.js)
+- **Date:** 2026-aug-27
 
 ---
 
@@ -45,7 +45,7 @@
 | May | 0 |
 | June | 0 |
 | July | 0 |
-| **August** | **13** |
+| **August** | **14** |
 | September | 0 |
 | October | 0 |
 | November | 0 |
@@ -56,6 +56,6 @@
 ## 🔥 Coding Streak
 
 ```text
-Current Streak : 🔥 13 days
+Current Streak : 🔥 1 days
 Longest Streak : 🏆 13 days
 ```
